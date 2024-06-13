@@ -1,6 +1,3 @@
-# My-Projects
-Detailed Info About My Projects
-
 # Welcome to My GitHub Profile!
 
 ## My Projects
