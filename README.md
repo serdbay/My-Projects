@@ -2,7 +2,7 @@
 
 Hello,
 
-I am a data enthusiast with a versed process manager/developer and data analyzing/modeling skills. In my projects I have used so many data visualization, data analysis and machine learning techniques with various technologies in order to answer so many business problems. You can check my all projects and descriptions explained below. 
+I am a data enthusiast with a versed process manager/developer and data analyzing/modeling skills. In my projects I have used so many data visualization, data analysis and machine learning techniques with various technologies in order to answer important business problems. You can check my all projects and descriptions explained below. 
 
 ## My Projects
 
