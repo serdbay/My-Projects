@@ -13,7 +13,7 @@
 
 ### Project 4: Exploring-The-Weather-Trends
 - **Description**: In this data analysis we will analyze and explore the weather trends between Istanbul' s average temperatures and global world average temperatures based on the years. We will create visualizations and prepare a write up describing the similarities and differences between global temperature trends and temperature trends in Istanbul.
-- 
+
 ### Project 5: The-Movie-Database-TMDb-Analysis
 - **Description**: In this project we will be analyzing data associated with such as movies, genres, performers, popularity and votes. In particular we will be interested in finding some questions about their relationships. Besides, to say in more detail we will be analyzing genres, actors/actresses and directors' performances and movies' net incomes according to this dataset.
 
