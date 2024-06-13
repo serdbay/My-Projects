@@ -56,7 +56,7 @@
 ### Project 18: Analyzing-The-World-Bank-s-International-Debt-Data
 - **Description**: In this project we are going to analyze international debt data collected by The World Bank with SQL and Python together. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories.
 
-### Project 19: Wine-Classification-
+### Project 19: Wine-Classification
 - **Description**: In this challenge, we will try to train a classification model to analyze the chemical and visual features of wine samples and classify them based on their cultivar (grape variety).
 
 ## About Me
